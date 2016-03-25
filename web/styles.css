@@ -1,0 +1,43 @@
+@import url(https://fonts.googleapis.com/css?family=Titillium+Web:400,200);
+
+body {
+    background-color: #EEE;
+    font-family: 'Titillium Web', sans serif;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+}
+
+#header {
+    width: 452px;
+    padding: 10px;
+    margin: auto;
+    text-align: center;
+}
+
+h1 {
+    font-weight: 200;
+    font-size: 80px;
+    color: #444;
+    line-height: 50px;
+}
+
+#game {
+    width: 452px;
+    height: 406px;
+    padding: 10px;
+    margin: auto;
+    border: solid 1px #AAA;
+    border-radius: 3px;
+    box-shadow: 0 2px 2px #CCC;
+    background-color: #FFF;
+}
+
+#footer {
+    width: 452px;
+    padding: 10px;
+    margin: auto;
+    text-align: center;
+    font-size: 20px;
+    color: #444;
+}
